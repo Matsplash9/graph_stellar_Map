@@ -1,0 +1,44 @@
+{
+  "sectors_in_sol": [
+    {
+      "name": "the tower",
+      "description": "lieux de raliment des gardien artere des déplacement planétaire",
+      "edges": [
+        ["earth","tower","edz","cosmodrome"],
+        ["tower","courtyard"],
+        ["tower","annex"],
+        ["annex","bazaar"],
+        ["bazaar","courtyard"],
+        ["courtyard", "hangar","bazaar","quest_archive","Postmaster", "tess_everis","ironwood_tree", "zavala","lord_shaxx",
+        "valus_saladin","monument_to_lost_lights","monument_to_season_past", "banshee-44","vault","master_rahool","special_deliveries_terminal"],
+        ["hangar","saint-14"],
+        ["bazaar", "annex","suraya_hawthorne","xur","ikora_rey"],
+        ["annex", "the_drifter","ada-1","loom"],
+        ["cosmodrome","the_steppes"],
+        ["cosmodrome","skywatch"],
+        ["the_steppes","shaw_han","mothyards","dock_13"],
+        ["dock_13","the_divide"],
+        ["the_divide","exodus_garden_2a","the_breach","gateway"],
+        ["mothyards","lunar_complex","forgotten_shore"],
+        ["lunar_complex","skywatch"],
+        ["skywatch","lunar_complex","jovian_complex","terrestrial_complex","grasp_of_avarice"],
+        ["terrestrial_complex","forgotten_shore"],
+        ["forgotten_shore","the_disgraced","fallen_s.a.b.e.r","the_devils'lair","veles_labyrinth"],
+        ["edz","trostland","the_sludge","the_gulch","winding_cove","sunken_isles"],
+        ["trostland","devrim_kay","terminus_east","atrium","widow's_walk","salt_mines","maevic_square","outskirts"],
+        ["maevic_square","warlord's_ruin","the_reservoir"],
+        ["the_reservoir","lake_of_shadows"],
+        ["outskirts","scavenger's_den","the_drain","whispered_falls","sojurner's_camp","winding_cove","the_sludge","trostland"],
+        ["the_sludge","shaft_13","cavern_of_souls","hallowed_grove","the_dark_forest","the_gulch","outskirts"],
+        ["the_gulch","flooded_chasm","the_sludge","firebase_hades","the_tunnels"],
+        ["firebase_hades","excavation_site_12","pathfinder's_crash","the_pit","the_arms_dealer","legion's_anchor","the_gulch","winding_cove"],
+        ["sunken_isles","the_quarry","skydock_4","echion_hold","echion_batlledeck","echion_control"],
+        ["winding_cove","the_weep","firebase_hades","outskirts"]
+
+
+       
+
+      ]
+    }
+  ]
+}
