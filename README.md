@@ -28,7 +28,7 @@ You pick a starting location and a destination, hit **Find the Path**, the app w
 ## Requirements
 
 - Python 3.8 or newer
-- `tkinter` — included in the standard library on most Python installations
+- `tkinter` 
 ---
 
 ## Running the App
